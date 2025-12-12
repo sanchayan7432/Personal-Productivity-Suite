@@ -56,12 +56,12 @@ Auto timestamps every note
 Automatic sorting of files based on type:
 ```
 Type	      Examples
-Images	    png, jpg, gif
-Videos	    mp4, mov, avi
+Images	      png, jpg, gif
+Videos	      mp4, mov, avi
 Documents	  pdf, docx, txt
 Audio	      mp3, wav
 Archives	  zip, rar
-Others	    all else
+Others	      all else
 ```
 ⏱ 4. Timer & Stopwatch
 ```
@@ -333,4 +333,5 @@ streamlit run gui.py
 Sanchayan Ghosh | sanchayan7432@gmail.com
 Python Developer | LLM Researcher and Prompt Engineering Security Researcher | Former Research Intern, MIST Lab, IIT Bhilai
 ```
+
 
