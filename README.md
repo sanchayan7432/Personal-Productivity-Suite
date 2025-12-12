@@ -31,3 +31,66 @@ This project demonstrates strong skills in:
 ✔ Unit testing with Python
 ```
 
+🌟 Features
+🧮 1. Calculator
+```
+Uses Python’s AST for safe parsing
+
+Prevents arbitrary code execution
+
+Supports arithmetic operations, parentheses, power, modulo, etc.
+```
+📝 2. Notes Manager
+```
+Create, read, edit, delete, search notes
+
+JSON-based persistent storage
+
+Export notes to .txt
+
+Auto timestamps every note
+```
+📂 3. File Organizer
+
+Automatic sorting of files based on type:
+```
+Type	      Examples
+Images	    png, jpg, gif
+Videos	    mp4, mov, avi
+Documents	  pdf, docx, txt
+Audio	      mp3, wav
+Archives	  zip, rar
+Others	  all else
+```
+⏱ 4. Timer & Stopwatch
+```
+Countdown timer
+
+Stopwatch with lap tracking
+
+Logs saved to text file
+```
+🔢 5. Unit Converter
+
+Convert between:
+```
+Length (km/m/cm/mm)
+
+Weight (kg/g/mg)
+
+Temperature (°C/°F/K)
+```
+🗂 6. Backup Manager
+```
+Creates project-wide .zip backup
+
+Restores from an existing backup
+```
+🖥 7. Streamlit GUI
+```
+Beautiful GUI interface
+
+Sidebar navigation
+
+Simplified usage for non-technical users
+```
