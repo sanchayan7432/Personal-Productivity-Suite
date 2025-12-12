@@ -137,7 +137,7 @@ productivity-suite/
 │   └── test_notes.py
 │
 └── examples/
-    └── sample.txt
+    └── sample pdf user guide
 ```
 
 ⚙ Installation & Setup
@@ -337,3 +337,4 @@ Python Developer | LLM Researcher and Prompt Engineering Security Researcher | F
 
 Thank you!
 Have a Nice Day.
+
