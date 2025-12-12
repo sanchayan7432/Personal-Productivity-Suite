@@ -340,7 +340,7 @@ Mobile-friendly version
 👤 Author
 ```
 Sanchayan Ghosh
-Python Developer | LLM Researcher | Productivity Tools Engineer
+Python Developer | LLM Researcher, Prompt Engineering Security Research | Former Research Intern, IIT Bhilai
 ```
 
 📌 Streamlit link
