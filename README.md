@@ -55,12 +55,12 @@ Auto timestamps every note
 Automatic sorting of files based on type:
 ```
 Type	      Examples
-Images	    png, jpg, gif
-Videos	    mp4, mov, avi
+Images	      png, jpg, gif
+Videos	      mp4, mov, avi
 Documents	  pdf, docx, txt
 Audio	      mp3, wav
 Archives	  zip, rar
-Others	  all else
+Others	      all else
 ```
 ⏱ 4. Timer & Stopwatch
 ```
