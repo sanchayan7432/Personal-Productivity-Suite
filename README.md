@@ -334,7 +334,15 @@ Sanchayan Ghosh | sanchayan7432@gmail.com
 Python Developer | LLM Researcher and Prompt Engineering Security Researcher | Former Research Intern, MIST Lab, IIT Bhilai
 ```
 
-
+📌 Streamit cloud deployment link
+```
+https://personal-appuctivity-suite-nndhnynsdcarazxl3skiko.streamlit.app/
+```
+📌 Google Docs. user manual link
+```
+https://docs.google.com/document/d/1BKKO_HakNbd6j7t89gTZFbSYFYmaE5WoHNGE0KW1PPo/edit?usp=sharing
+```
 Thank you!
 Have a Nice Day.
+
 
